@@ -1,1 +1,1 @@
-second document with text entered on my local machine, into the master repo
+second document with text entered on my local machine (with some edits into branch-1), into the master repo
